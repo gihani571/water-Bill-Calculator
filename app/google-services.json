@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626670025175",
+    "project_id": "water-bill-calculator-90675",
+    "storage_bucket": "water-bill-calculator-90675.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626670025175:android:c4f838dd46f0dc85213392",
+        "android_client_info": {
+          "package_name": "com.example.waterbillcalculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwurLgjTNn2sS4IJpHsISzr7ptsytwFtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
